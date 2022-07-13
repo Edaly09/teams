@@ -1,0 +1,22 @@
+button {
+  font-size: 24px;
+  width: 64px;
+  height: 64px;
+  background-color: white;
+  border-radius: 50%;
+  border: solid 2px black;
+  cursor: pointer;
+}
+.App-link {
+  color: #61dafb;
+  align-items: center;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+}
